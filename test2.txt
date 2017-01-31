@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E08E-B773
+
+ Directory of C:\Users\Admin\Desktop\Project
+
+01/31/2017  11:13 AM    <DIR>          .
+01/31/2017  11:13 AM    <DIR>          ..
+01/27/2017  05:12 PM                22 index.html
+01/27/2017  05:11 PM                 4 test1.txt
+01/31/2017  11:13 AM                 0 test2.txt
+               3 File(s)             26 bytes
+               2 Dir(s)  118,477,279,232 bytes free
